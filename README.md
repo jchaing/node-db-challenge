@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+    - `Relational Databases` are databases where data is stored in tabular format grouped into rows and columns like an Excel spreadsheet. `SQL` is the standard language used to manage DBs such as relational databases and the data within them.
+
 - [ ] Why do tables need a `primary key`?
+
+    - To uniquely identify each row on the table
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+    - Foreign Keys
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+    - An intermediary table or bridge table that holds foreign keys that reference primary key on related tables.
 
 ## Minimum Viable Product
 
